@@ -1,0 +1,10 @@
+name: "LanguageAPI"
+version: 0.0.8_B_0179
+description: "LanguageAPI"
+author: kilpikonna
+main: cc.moecraft.languageapi.LanguageAPI
+commands:
+    language:
+        description: Open language GUI
+    lang:
+        description: Open language GUI
